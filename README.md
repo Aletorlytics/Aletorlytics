@@ -58,3 +58,7 @@ When I'm not working with data, I enjoy playing chess, Exploring data visualizat
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+
+---
+Thank you for visiting my profile! I look forward to connecting with fellow data enthusiasts and professional.🌟  
+---
