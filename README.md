@@ -27,8 +27,8 @@ When I'm not working with data, I enjoy playing chess, Exploring data visualizat
 
 ## 🌱 Currently Learning 
 
-- Currently learning and advancing my SQL skills to an advanced level. 
-- Building a strong foundation in machine learning using Python.
+- Strengthening expertise in advanced SQL for scalable analytics and structured data solutions. 
+- Expanding applied machine learning capabilities in Python through end to end model development projects.
 
 ## 🛠️ Technical Skillset
 
