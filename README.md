@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy playing chess, Exploring data visualizat
 - **Project B:** Built an end to end HR analytics solution using Excel, Power Query, and Tableau to deliver real time insights on employee performance and benefits utilization, enabling data driven HR decision making.
 
 
-## 🌱 Currently Learning 
+## 🌱Technical Skill Advancement 
 
 - Strengthening expertise in advanced SQL for scalable analytics and structured data solutions. 
 - Expanding applied machine learning capabilities in Python through end to end model development projects.
