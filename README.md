@@ -6,37 +6,37 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!--  Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/aletor-agboigbe-b6030391"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:aletoragboigbe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+##  About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
 When I'm not working with data, I enjoy playing chess, Exploring data visualization ideas, listening to music and Learning new analytics tools or techniques. I love the "aha!" moment when data reveals something new and useful.
       
-## 🔭 What I'm Currently Working On 
+##  What I'm Currently Working On 
 
 - **Project A:** End-to-end web analytics project where I cleaned and merged session and engagement data in Excel, analyzed KPIs with pivot tables, and built an interactive Tableau dashboard to uncover user behaviour and conversion insights  
 - **Project B:** Built an end to end HR analytics solution using Excel, Power Query, and Tableau to deliver real time insights on employee performance and benefits utilization, enabling data driven HR decision making.
 
 
-## 🌱Technical Skill Advancement 
+## Technical Skill Advancement 
 
 - Strengthening expertise in advanced SQL for scalable analytics and structured data solutions. 
 - Expanding applied machine learning capabilities in Python through end to end model development projects.
 
-## 🛠️ Technical Skillset
+##  Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
+  <!--  Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
@@ -56,10 +56,10 @@ When I'm not working with data, I enjoy playing chess, Exploring data visualizat
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+<!--  Replace "your-username" with your actual GitHub username -->
+### [ Check Out My Full Portfolio Website](https://your-username.github.io/)
 
 ---
-Thank you for visiting my profile! I look forward to connecting with fellow data enthusiasts and professional.🌟  
+Thank you for visiting my profile! I look forward to connecting with fellow data enthusiasts and professional.  
 
 ---
