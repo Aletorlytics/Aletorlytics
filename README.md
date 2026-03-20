@@ -16,9 +16,14 @@
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 I specialize in:
-Building building dashboards people actually use, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+ 
+ Building dashboards people actually use,focused on clarity, relevance, and decision making
+ 
+ Automating repetitive workflows to save time and reduce errors 
+ 
+ Developing analytical models that support forecasting,planning,and strategy.
 
-When I'm not working with data, I enjoy playing chess, Exploring data visualization ideas, listening to music and Learning new analytics tools or techniques. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy playing chess, exploring data visualization ideas, listening to music and learning new analytics tools or techniques. I love the "aha!" moment when data reveals something new and useful.
       
 ##  What I'm Currently Working On 
 
